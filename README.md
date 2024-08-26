@@ -31,5 +31,10 @@ Effective teamwork and regular communication helped us overcome these obstacles 
 ## picture:
 ![image](https://github.com/user-attachments/assets/163519ee-1741-4ae9-bf04-f6ddb458a2ef)
 ![image](https://github.com/user-attachments/assets/bc60d6ba-82bc-44ca-b4df-13412018f39b)
+![image](https://github.com/user-attachments/assets/2cd39285-4b4c-49e5-a3a3-4a6de3feb9a9)
+![4](https://github.com/user-attachments/assets/ac5740e9-b316-4e78-bc68-e19fc1da6832)
+
+
+
 
 
