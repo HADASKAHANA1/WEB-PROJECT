@@ -1,4 +1,9 @@
 # project web
+##
+Hadas Ben David (Kahana)
+Hodaya Ben Yashar
+Ester Itzhaki 
+
 ## instruction:
 1. Clone the Repository
 
