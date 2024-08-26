@@ -28,7 +28,7 @@ We faced challenges with different and busy schedules, which required us to care
 Additionally, organizing and maintaining order in our project was essential.
 Effective teamwork and regular communication helped us overcome these obstacles and keep the project on track.
 
-## picture:
+## pictures:
 ![1](https://github.com/user-attachments/assets/c21c9b62-9d57-4e79-a6ad-d9fe3afd7016)
 ![2](https://github.com/user-attachments/assets/e3503a8a-5585-48dc-9f7d-09b736af6dd8)
 ![3](https://github.com/user-attachments/assets/dfbb5f23-612c-4090-9904-a9f7b3f8fdab)
