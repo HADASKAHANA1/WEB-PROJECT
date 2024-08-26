@@ -12,7 +12,9 @@ Ester Itzhaki
 To clone this repository to your local machine, follow these steps:
 
  a. Open Visual Studio Code (or any other text editor).
+
  b. Open the terminal within Visual Studio Code.
+
  c. Run the following command in the terminal to clone the project: git clone https://github.com/HADASKAHANA1/WEB-PROJECT.git
 
 2. Install Dependencies
@@ -24,7 +26,9 @@ This will start the local server and the project should automatically open in yo
 
 #### System Requirements
  a. Node.js
+
  b. NPM
+
 #### Additional Notes
 Make sure your Node.js and NPM versions are up-to-date.
 If you encounter any issues, try rerunning the npm install and npm start commands.
