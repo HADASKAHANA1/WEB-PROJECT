@@ -29,5 +29,6 @@ Additionally, organizing and maintaining order in our project was essential.
 Effective teamwork and regular communication helped us overcome these obstacles and keep the project on track.
 
 ## picture:
+![image](https://github.com/user-attachments/assets/163519ee-1741-4ae9-bf04-f6ddb458a2ef)
 
 
