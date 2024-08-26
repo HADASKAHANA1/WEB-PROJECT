@@ -1,5 +1,5 @@
 # project web
-
+## instruction:
 1. Clone the Repository
 
 To clone this repository to your local machine, follow these steps:
@@ -15,10 +15,10 @@ After cloning the repository, navigate to the project directory and run the foll
 Once the dependencies are installed, you can start the project using the following command: npm start
 This will start the local server and the project should automatically open in your web browser.
 
-# System Requirements
+#### System Requirements
 Node.js
 NPM
-# Additional Notes
+#### Additional Notes
 Make sure your Node.js and NPM versions are up-to-date.
 If you encounter any issues, try rerunning the npm install and npm start commands.
 
@@ -27,5 +27,7 @@ If you encounter any issues, try rerunning the npm install and npm start command
 We faced challenges with different and busy schedules, which required us to carefully coordinate our work.
 Additionally, organizing and maintaining order in our project was essential.
 Effective teamwork and regular communication helped us overcome these obstacles and keep the project on track.
+
+## picture:
 
 
