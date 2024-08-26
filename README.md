@@ -17,6 +17,15 @@ To clone this repository to your local machine, follow these steps:
 
  c. Run the following command in the terminal to clone the project: git clone https://github.com/HADASKAHANA1/WEB-PROJECT.git
 
+ d. Run the following commands in the terminal: 
+
+     cd WEB-PROJECT
+     
+     cd vsc
+
+     cd src
+
+
 2. Install Dependencies
 After cloning the repository, navigate to the project directory and run the following command in the terminal to install all the necessary dependencies: npm install
 
